@@ -4,3 +4,4 @@
 # fix me
 # hacky hack that requires hacking. pls msg me for explanation.
 # michalesoft spaghetti
+# just add more memory for this function
