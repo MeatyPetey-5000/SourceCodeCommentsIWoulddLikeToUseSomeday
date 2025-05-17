@@ -5,3 +5,4 @@
 # hacky hack that requires hacking. pls msg me for explanation.
 # michalesoft spaghetti
 # just add more memory for this function
+# you think this does nothing, BUT IT DOES DO SOMETHING! I DON'T KNOW WHAT! pls don't delete this comment or it will break
